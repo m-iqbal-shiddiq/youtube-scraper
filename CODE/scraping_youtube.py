@@ -139,7 +139,7 @@ if __name__ == '__main__':
     
     API_SERVICE_NAME = 'youtube'
     API_VERSION = 'v3'
-    API_KEY_DEV = 'AIzaSyB8brXNYRvkMLVYnzgY3rbUUAAvNDgvUug'
+    API_KEY_DEV = 'YOUR API HERE'
     
     ID_CHANNEL = 'UCEHjExuQgRMCFYXpBtcEO2Q' # Example Maudy Ayunda
     
